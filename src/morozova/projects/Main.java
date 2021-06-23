@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hey! Start doing HomeWork! ");
+        System.out.println("let do commit");
         // Задание №2: создать и инициализировать все типы данных
         byte a = 10;
         short b = 11000;
