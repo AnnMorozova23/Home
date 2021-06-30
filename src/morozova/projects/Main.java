@@ -15,9 +15,9 @@ public class Main {
         char g = '\u0000';
         boolean l = true;
         System.out.println(getTask3(3.4444f, 5.4987f, 1.477693f, 0, 45787f));
-        System.out.println(getTask4(7,7));
-        getTask5(5);
-        System.out.println(getTask6(5));
+        System.out.println(getTask4(10,7));
+        getTask5(-6);
+        System.out.println(getTask6(-6));
         getTask7("Tory");
         getTask8(104);
 
