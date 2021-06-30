@@ -7,7 +7,7 @@ public class HomeWork3 {
     public static void main(String[] args) {
         System.out.println("Мы загадали число от 0 до 9. Ваша задача отгадать число.У Вас 3 попытки. Поехали!\n");
         checkAnswer();
-        int level = 150;
+        int level = 250;
         PlayAgain(level);
     }
 
